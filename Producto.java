@@ -79,4 +79,6 @@ public class Producto {
     public float calcularPrecioVenta() {
         return calcularPrecioVenta(BaseDeDatos.getMargenGanancia());
     }
+
+    
 }
